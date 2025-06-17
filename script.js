@@ -103,7 +103,7 @@ document.getElementById("nextTourStop").innerHTML = `
 function displayNextTourStop() {
   // Add your code here
   // List of show dates (YYYY-MM-DD format)
-  const showDates = ["2025-06-10", "2025-06-20", "2025-06-30"];
+  const showDates = ["2025-08-01", "2025-08-10", "2025-08-30"];
 
   // Get today's date in the same format
   const today = new Date();
